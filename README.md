@@ -1,2 +1,3 @@
 # miniFrameWork
 php miniFrameWork ，php 迷你mvc框架
+基本的数据库增删改查，模板载入，文件上传...
